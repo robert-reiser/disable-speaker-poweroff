@@ -1,4 +1,4 @@
-#requires AutoHotkey v2.0
+#Requires AutoHotkey v2
 
 ; call functiion below every 300000ms ( =300s / =5m )
 SetTimer DisableSpeakerPoweroff, 300000
